@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 module.exports = async () => {
-	if (process.env.NODE_ENV !== 'development') {
+	if (process.env.NODE_ENV === 'development') {
 		return require('../programs.json');
 	} else {
 		const { data } = await axios.get(

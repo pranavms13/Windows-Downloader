@@ -1,8 +1,27 @@
 [
 	{
+		"name": "Adobe Acrobat Pro DC 2019",
+		"path": "acrobat.exe",
+		"download": "https://prodesigntools.com/prdl-download/Acrobat%20Professional/D7F54F0D29444633826976D79A5A752C/1551091346749/Acrobat_DC_Web_WWMUI.exe"
+	},
+	{
+		"name": "Adobe Illustrator CC 2019",
+		"path": "illustrator2019.exe",
+		"download": "https://prodesigntools.com/prdl-download/Illustrator/160936BD5B104622BB9B90349EE49E5F/1546595326395/AdobeIllustrator23_HD_win64.zip"
+	},
+	{
 		"name": "Adobe Photoshop CC 2019",
 		"path": "photoshop2019.exe",
 		"download": "https://prodesigntools.com/prdl-download/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595903133/AdobePhotoshop20-mul_x64.zip"
+	},
+	{
+		"name": "Adobe Premiere Pro CC 2019",
+		"path": "premierepro2019.exe",
+		"download": "https://prodesigntools.com/prdl-download/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083308622/AdobePremierePro13AllTrial.zip"
+	},
+	{
+		"name": "Android Studio",
+		"link": "https://developer.android.com/studio#downloads"
 	},
 	{
 		"name": "Docker Desktop",
@@ -10,14 +29,13 @@
 		"download": "https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe"
 	},
 	{
-		"name": "Google Chrome",
-		"path": "chrome.exe",
-		"download": "http://dl.google.com/chrome/install/375.126/chrome_installer.exe"
+		"name": "Git",
+		"link": "https://git-scm.com/download/win"
 	},
 	{
-		"name": "Git",
-		"path": "git.exe",
-		"download": "https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe"
+		"name": "GitKraken",
+		"path": "gitkraken.exe",
+		"download": "https://release.gitkraken.com/win64/GitKrakenSetup.exe"
 	},
 	{
 		"name": "Github Desktop",
@@ -25,8 +43,9 @@
 		"download": "https://central.github.com/deployments/desktop/desktop/latest/win32"
 	},
 	{
-		"name": "InVision Studio",
-		"link": "https://www.invisionapp.com/studio"
+		"name": "Google Chrome",
+		"path": "chrome.exe",
+		"download": "http://dl.google.com/chrome/install/375.126/chrome_installer.exe"
 	},
 	{
 		"name": "HP Deskjet 3635 Driver",
@@ -34,9 +53,30 @@
 		"download": "https://ftp.hp.com/pub/softlib/software13/printers/dj3630/DJ3630_Full_WebPack_40.13.1176.exe"
 	},
 	{
+		"name": "InVision Studio",
+		"link": "https://www.invisionapp.com/studio"
+	},
+	{
+		"name": "Java SDK 14",
+		"link": "https://www.oracle.com/java/technologies/javase-jdk14-downloads.html"
+	},
+	{
 		"name": "Microsoft Teams",
 		"path": "teams.exe",
 		"download": "https://go.microsoft.com/fwdownload/p/?downloadid=869426&culture=en-us&country=ww&lm=deepdownload&lmsrc=groupchatmarketingpageweb&cmpid=directdownloadwin64"
+	},
+	{
+		"name": "Node.js",
+		"link": "https://nodejs.org/en/download/current/"
+	},
+	{
+		"name": "Postman",
+		"path": "postman.exe",
+		"download": "https://dl.pstmn.io/download/latest/win64"
+	},
+	{
+		"name": "PuTTY",
+		"link": "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"
 	},
 	{
 		"name": "Slack",
@@ -44,8 +84,20 @@
 		"download": "https://slack.com/ssb/download-win64"
 	},
 	{
+		"name": "VLC Media PLayer",
+		"link": "https://www.videolan.org/vlc/download-windows.html"
+	},
+	{
 		"name": "Visual Studio Code",
 		"path": "vscode.exe",
 		"download": "https://aka.ms/win32-x64-user-stable"
+	},
+	{
+		"name": "WinRaR",
+		"link": "https://www.win-rar.com/postdownload.html?&L=0"
+	},
+	{
+		"name": "WinSCP",
+		"link": "https://winscp.net/eng/download.php"
 	}
 ]
