@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Adobe Photoshop CC 2019",
+		"path": "photoshop2019.exe",
+		"download": "https://prodesigntools.com/prdl-download/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595903133/AdobePhotoshop20-mul_x64.zip"
+	},
+	{
+		"name": "Docker Desktop",
+		"path": "docker.exe",
+		"download": "https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe"
+	},
+	{
+		"name": "Google Chrome",
+		"path": "chrome.exe",
+		"download": "http://dl.google.com/chrome/install/375.126/chrome_installer.exe"
+	},
+	{
+		"name": "Git",
+		"path": "git.exe",
+		"download": "https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe"
+	},
+	{
+		"name": "Github Desktop",
+		"path": "github.exe",
+		"download": "https://central.github.com/deployments/desktop/desktop/latest/win32"
+	},
+	{
+		"name": "InVision Studio",
+		"link": "https://www.invisionapp.com/studio"
+	},
+	{
+		"name": "HP Deskjet 3635 Driver",
+		"path": "deskject3635.exe",
+		"download": "https://ftp.hp.com/pub/softlib/software13/printers/dj3630/DJ3630_Full_WebPack_40.13.1176.exe"
+	},
+	{
+		"name": "Microsoft Teams",
+		"path": "teams.exe",
+		"download": "https://go.microsoft.com/fwdownload/p/?downloadid=869426&culture=en-us&country=ww&lm=deepdownload&lmsrc=groupchatmarketingpageweb&cmpid=directdownloadwin64"
+	},
+	{
+		"name": "Slack",
+		"path": "slack.exe",
+		"download": "https://slack.com/ssb/download-win64"
+	},
+	{
+		"name": "Visual Studio Code",
+		"path": "vscode.exe",
+		"download": "https://aka.ms/win32-x64-user-stable"
+	}
+]
