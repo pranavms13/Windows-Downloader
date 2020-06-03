@@ -6,17 +6,17 @@
 	},
 	{
 		"name": "Adobe Illustrator CC 2019",
-		"path": "illustrator2019.exe",
+		"path": "illustrator2019.zip",
 		"download": "https://prodesigntools.com/prdl-download/Illustrator/160936BD5B104622BB9B90349EE49E5F/1546595326395/AdobeIllustrator23_HD_win64.zip"
 	},
 	{
 		"name": "Adobe Photoshop CC 2019",
-		"path": "photoshop2019.exe",
+		"path": "photoshop2019.zip",
 		"download": "https://prodesigntools.com/prdl-download/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595903133/AdobePhotoshop20-mul_x64.zip"
 	},
 	{
 		"name": "Adobe Premiere Pro CC 2019",
-		"path": "premierepro2019.exe",
+		"path": "premierepro2019.zip",
 		"download": "https://prodesigntools.com/prdl-download/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083308622/AdobePremierePro13AllTrial.zip"
 	},
 	{
