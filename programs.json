@@ -20,6 +20,10 @@
 		"download": "https://prodesigntools.com/prdl-download/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083308622/AdobePremierePro13AllTrial.zip"
 	},
 	{
+		"name": "Alienware Command Center",
+		"link": "https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=d6hrd"
+	},
+	{
 		"name": "Android Studio",
 		"link": "https://developer.android.com/studio#downloads"
 	},
@@ -62,8 +66,7 @@
 	},
 	{
 		"name": "Microsoft Teams",
-		"path": "teams.exe",
-		"download": "https://go.microsoft.com/fwdownload/p/?downloadid=869426&culture=en-us&country=ww&lm=deepdownload&lmsrc=groupchatmarketingpageweb&cmpid=directdownloadwin64"
+		"link": "https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app#desktopAppDownloadregion"
 	},
 	{
 		"name": "MongoDB Compass",
