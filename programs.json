@@ -66,6 +66,10 @@
 		"download": "https://go.microsoft.com/fwdownload/p/?downloadid=869426&culture=en-us&country=ww&lm=deepdownload&lmsrc=groupchatmarketingpageweb&cmpid=directdownloadwin64"
 	},
 	{
+		"name": "MongoDB Compass",
+		"link": "https://www.mongodb.com/try/download/compass"
+	},
+	{
 		"name": "Node.js",
 		"link": "https://nodejs.org/en/download/current/"
 	},
